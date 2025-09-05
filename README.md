@@ -44,9 +44,9 @@ Install the required libraries:
 ```bash
 pip install opencv-python numpy tensorflow scikit-learn
 ```
-
+--- 
 👨‍💻 Author
 This repository is maintained by Venkata Dharaneswara Reddy
-
+---
 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/GojoV339/Computer-Vision-Basics-to-Advance/blob/main/LICENSE) file for details.
