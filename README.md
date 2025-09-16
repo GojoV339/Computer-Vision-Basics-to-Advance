@@ -37,7 +37,7 @@ We recommend setting up a virtual environment.
 
 Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/computer-vision-basics-to-advance.git
+git clone https://github.com/GojoV339/Computer-Vision-Basics-to-Advance.git
 ```
 
 Install the required libraries:
